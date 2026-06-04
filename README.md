@@ -1,1 +1,1 @@
-# OBDB QGIS MANUAL
+# SCALES Database Manual
