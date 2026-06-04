@@ -1,1 +1,19 @@
-
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Overview: getting-started/index.md
+      - What is SCALES?: getting-started/what-is-scales.md
+      - Basic data-entry rules: getting-started/basic-data-entry-rules.md
+  - Concepts:
+      - Overview: concepts/index.md
+      - Source: concepts/source.md
+      - Context: concepts/context.md
+      - Place and Location: concepts/place-and-location.md
+      - Object: concepts/object.md
+      - Attested Individual and Person: concepts/attested-individual-and-person.md
+      - Localization: concepts/localization.md
+  - QGIS Data Entry:
+      - Overview: qgis-data-entry/index.md
+      - Place Form:
+          - Overview: qgis-data-entry/place-form/index.md
+          - Name Tab: qgis-data-entry/place-form/tab-01-name.md
