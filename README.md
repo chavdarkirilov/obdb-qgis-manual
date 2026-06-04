@@ -1,1 +1,1 @@
-# SCALES Database Manual
+# SCALES Database Guide
