@@ -1,5 +1,6 @@
 # Place Form
 
-|QGIS Field Name|DB Field Name|Status|something|
+|Field Name (QGIS)|Field Name (DB)|Status|something|
 |--|--|--|--|
-|haha|haha|haha|haha|
+|DB Name|place_name|non-editable|Auto-generated name|
+|Name|place_name_src|editable|Place name as written in the source, e.g. اسثانبول, Burtzia, Татаръ-кьой, etc.|
