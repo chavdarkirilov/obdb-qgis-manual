@@ -1,6 +1,8 @@
 # Place Form
 ## Name Tab
 
+<img width="1103" height="697" alt="af_place_tab_01_name" src="https://github.com/user-attachments/assets/cfd82db3-b163-45a5-ae93-f8acf0e5bd53" />
+
 |Field Name (QGIS)|Field Name (DB)|Status|something|
 |--|--|--|--|
 |DB Name|place_name|non-editable|Auto-generated name|
