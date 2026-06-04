@@ -1,1 +1,1 @@
-# obdb-qgis-manual
+# OBDB QGIS MANUAL
